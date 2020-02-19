@@ -1,2 +1,2 @@
-# LIMA2
+# LIMA
 Trabalhos Lima
